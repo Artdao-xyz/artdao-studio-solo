@@ -16,7 +16,7 @@
 			what: 'group',
 			info: 'Identity/web',
 			date: '2023',
-			link: 'http://www.artdao.xyz'
+			link: 'https://xykgroup.com'
 		},
 		{
 			banner: '/studio/lychee.png',
@@ -26,7 +26,7 @@
 			what: 'protocol',
 			info: 'Identity/web/Dapp',
 			date: '2023',
-			link: 'http://www.artdao.xyz'
+			link: '-'
 		},
 		{
 			banner: '/studio/nonplaces.png',
@@ -36,7 +36,7 @@
 			what: 'exhibition',
 			info: 'Identity/Web',
 			date: '2023',
-			link: 'http://www.artdao.xyz'
+			link: '-'
 		},
 		{
 			banner: '/studio/tosta.png',
@@ -46,7 +46,7 @@
 			what: 'music',
 			info: 'logo',
 			date: '2024',
-			link: 'http://www.artdao.xyz'
+			link: '-'
 		},
 		{
 			banner: '/studio/soar.png',
