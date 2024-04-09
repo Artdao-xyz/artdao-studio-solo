@@ -84,7 +84,7 @@
 </script>
 
 
-<div class="flex flex-col lp:flex-row gap-2 lp:gap-0 items-center w-full justify-start">
+<div class="font-clash-display flex flex-col lp:flex-row gap-2 lp:gap-0 items-center w-full justify-start">
 
     <form
     in:fade={{ delay: 50, duration: 150 }}

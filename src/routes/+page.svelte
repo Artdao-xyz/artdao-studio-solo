@@ -24,7 +24,7 @@
 
 <div class="bg-background lp:h-screen flex flex-col items-center justify-center max-w-screen z-30">
 
-    <div class="dp:max-w-[1440px] dp:mx-auto flex flex-col items-center justify-between lp:rounded-xl lp:h-[95%] p-4 lp:py-4 lp:px-8 shadow-custom">
+    <div class="lp:w-[97%] w-full max-w-[1440px] dp:mx-auto flex flex-col items-center justify-between lp:rounded-2xl lp:h-[97%] p-4 lp:py-4 lp:px-6 shadow-custom">
     <header bind:this={header} class="text-primary font-clash-display w-full">
         <nav class="flex justify-between items-center mx-auto w-full">
             <div class="lp:self-start">
