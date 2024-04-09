@@ -142,7 +142,7 @@
 		>
 			<div class="w-fit relative">
 				<a href={'#'} class="hidden lp:block lp:invisible group-hover:visible z-10 mx-auto w-full">
-					<img loading="lazy" class="absolute -top-12 left-0 h-fit w-full object-cover scale-150" src={projects[0].logo} alt="" />
+					<img loading="lazy" class="absolute -top-12 left-0 w-full object-cover scale-150" src={projects[0].logo} alt="" />
 				</a>
 				<a href={'#'} class="w-fit">
 					<h1
@@ -158,7 +158,7 @@
 		>
 			<div class="w-fit relative">
 				<a href={'#'} class="hidden lp:block lp:invisible group-hover:visible z-10 mx-auto w-full">
-					<img loading="lazy" class="absolute -top-10 left-0 h-fit w-full object-cover scale-150" src={projects[1].logo} alt="" />
+					<img loading="lazy" class="absolute -top-10 left-0 w-full object-cover scale-150" src={projects[1].logo} alt="" />
 				</a>
 				<a href={'#'} class="w-fit">
 					<h1
@@ -174,7 +174,7 @@
 		>
 			<div class="w-fit relative">
 				<a href={'#'} class="hidden lp:block lp:invisible group-hover:visible z-10 mx-auto w-full">
-					<img loading="lazy" class="absolute -top-24 left-0 h-fit w-full object-cover" src={projects[2].logo} alt="" />
+					<img loading="lazy" class="absolute -top-24 left-0 w-full object-cover" src={projects[2].logo} alt="" />
 				</a>
 				<a href={'#'} class="w-fit">
 					<h1
@@ -190,7 +190,7 @@
 		>
 			<div class="w-fit relative">
 				<a href={'#'} class="hidden lp:block lp:invisible group-hover:visible z-10 mx-auto w-full">
-					<img loading="lazy" class="absolute -top-6 left-0 h-fit w-full object-cover scale-150" src={projects[3].logo} alt="" />
+					<img loading="lazy" class="absolute -top-6 left-0 w-full object-cover scale-150" src={projects[3].logo} alt="" />
 				</a>
 				<a href={'#'} class="w-fit">
 					<h1
@@ -206,7 +206,7 @@
 		>
 			<div class="w-fit relative">
 				<a href={'#'} class="hidden lp:block lp:invisible group-hover:visible z-10 mx-auto w-full">
-					<img loading="lazy" class="absolute -top-20 left-0 h-fit w-full object-cover" src={projects[4].logo} alt="" />
+					<img loading="lazy" class="absolute -top-20 left-0 w-full object-cover" src={projects[4].logo} alt="" />
 				</a>
 				<a href={'#'} class="w-fit">
 					<h1
@@ -222,7 +222,7 @@
 		>
 			<div class="w-fit relative">
 				<a href={'#'} class="hidden lp:block lp:invisible group-hover:visible z-10 mx-auto w-full">
-					<img loading="lazy" class="absolute -top-10 left-0 h-fit w-full object-cover scale-150" src={projects[5].logo} alt="" />
+					<img loading="lazy" class="absolute -top-10 left-0 w-full object-cover scale-150" src={projects[5].logo} alt="" />
 				</a>
 				<a href={'#'} class="w-fit">
 					<h1
@@ -238,7 +238,7 @@
 		>
 			<div class="w-fit relative">
 				<a href={'#'} class="hidden lp:block lp:invisible group-hover:visible z-10 mx-auto w-full">
-					<img loading="lazy" class="absolute -top-20 left-0 h-fit w-full object-cover" src={projects[6].logo} alt="" />
+					<img loading="lazy" class="absolute -top-20 left-0 w-full object-cover" src={projects[6].logo} alt="" />
 				</a>
 				<a href={'#'} class="w-fit">
 					<h1
